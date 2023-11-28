@@ -23,8 +23,8 @@ This Spring Boot application provides a RESTful User Management System. It offer
 1. **Clone the Repository**
 
    ```shell
-   git clone https://github.com/<your-username>/<repository-name>.git
-   cd <repository-name>
+   git https://github.com/ManuelGonzalez/neorisChalenge
+   cd neorisChalenge
 
 2. **Build the Project**
 
